@@ -25,7 +25,7 @@ public class WhileDeadLoopDemo {
                 System.out.println("Unijeli ste magican broj");
                 break;
             } else {
-                System.out.println("Niste pogodili, pokusajte ponovo");
+                System.out.println("Niste pogodili pokusajte ponovo");
             }
         }
     }

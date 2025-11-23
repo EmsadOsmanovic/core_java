@@ -27,6 +27,6 @@ public class WhileDemo {
             System.out.println(number);
             number = number - 2;
         }
-        System.out.println("....itd");
+        System.out.println("...itd");
     }
 }

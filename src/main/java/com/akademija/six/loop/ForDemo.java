@@ -1,7 +1,7 @@
 package com.akademija.six.loop;
 
 /**
- * varijabla petlje => number
+ * varijabla petlje =>  number
  * 1. uslov petlje
  * 2. blok koda petlje
  * 3. korak petlje

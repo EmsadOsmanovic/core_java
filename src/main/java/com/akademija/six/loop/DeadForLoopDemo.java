@@ -32,7 +32,7 @@ public class DeadForLoopDemo {
             } else if (razlika <= 10) {
                 System.out.println("Blizu ste.... ali niste jos uvijek pogodili");
             } else {
-                System.out.println(" Niste pogodili....");
+                System.out.println(" Niste pogodili...");
             }
         }
     }

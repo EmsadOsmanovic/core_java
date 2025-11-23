@@ -7,6 +7,6 @@ public class DoWhileDemo {
         do {
             System.out.println(number);
             number--;
-        }while (number>0);
+        }while (number > 0);
     }
 }

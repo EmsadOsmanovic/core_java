@@ -7,7 +7,7 @@ public class InfiniteLoop {
         // }
 
         // for ( ; ; ) {
-        // System.out.printin("nikada ne izades iz petlje...");
+        // System.out.printin("nikada ne izades iz petlje..");
         // }
 
     }
